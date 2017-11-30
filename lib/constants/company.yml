@@ -1,0 +1,145 @@
+Industry:
+  - Accounting / Audit / Tax Services
+  - Advertising / PR / Marketing
+  - Aerospace / Aviation
+  - Agriculture / Forestry / Fishing
+  - Architecture / Building / Construction
+  - Arts / Entertainment / Recreation
+  - Automotive
+  - Charity / Social Services / NPO
+  - Chemical / Plastic / Paper
+  - Civil Services (Government)
+  - Clothing / Garment / Textile / Fashion
+  - Consulting / Business Analysis
+  - Education / Teaching
+  - Electronics / Electrical Equipment
+  - Energy / Utility / Waste Management
+  - Engineering
+  - Finance &amp; Banking
+  - Food and Beverage
+  - Health Care &amp; Beauty Care
+  - Human Resources / Recruitment
+  - Industrial Machinery
+  - Information Technology
+  - Insurance / Pension Funding
+  - Interior Design / Graphic Design
+  - Internet
+  - Jewellery / Watches
+  - Legal Services
+  - Life Sciences
+  - Manufacturing
+  - Media / Publishing / Printing
+  - Medical / Pharmaceutical
+  - Public Utilities / Security / Fire
+  - Real Estate
+  - Research / Survey
+  - Service Industry
+  - Telecommunication
+  - Tourism / Travel / Hospitality
+  - Translation / Interpretation
+  - Wholesale / Retail
+  - Other
+
+JobType:
+  General Affairs, Accounting, HR, Legal:
+    - Human Resources, General Affairs
+    - Business Planning, Project Planning
+    - Executive Assistant, Secretarial, Receptionist
+    - Accounting, Book Keeping, Payroll
+    - Legal / Para-legal, Legal Assistant
+    - Export / Import, International Related Business
+    - Other General Affairs, Accounting, HR, Legal
+  Sales, Planning:
+    - B2B Sales (Business)
+    - B2C Sales (Consumer)
+    - Sales Management, Sales Planning
+    - Telemarketing, Call Center Sales
+    - In-house Sales, Counter Sales
+    - Recruiter / Executive Search, Dispatch Coordinator
+    - Sales Engineers, Technical Sales, System Sales
+    - Medical Representative / Medical Sales
+    - Other Sales, Planning
+  Marketing, Advertising, PR:
+    - General Marketing
+    - Media Planning, Media Buying
+    - E-Commerce / Online Marketer (SEO, SEM, SMO)
+    - Market Research, Market Analysis
+    - PR, Investor Relations
+    - Other Marketing, Advertising, PR
+  Creative, Media:
+    - Producer, Director, Planner
+    - Web / Mobile Site Management, Content Development
+    - Editor, Journalist, Copy Writer, Technical Writer
+    - Designer, Illustrator
+    - Model, Actor, Musician, Dancer
+    - Print Related (DTP)
+    - Photographer
+    - Other Creative Media
+  IT, Internet, Telecommunication:
+    - Application Development
+    - Network / Server Development / Management
+    - Database Design / Development
+    - Communication Infrastructure / Development
+    - Control / Embedded Software Development
+    - Project Manager, Project Leader
+    - IT Consultant
+    - Software Engineer, Programmer
+    - Other IT, Internet, Telecommunication
+  Engineering, Construction:
+    - Engineering (Electrical, Mechanical, Semi-conductor)
+    - Technology Related (Medical, Bio, Chemical)
+    - Research Development
+    - Product Management
+    - Architecture, Building Management
+    - Civil Engineering, Construction
+    - Other Engineering, Construction
+  Education, Training:
+    - Child Education, Pre-school Teacher
+    - Corporate Training
+    - Licensed, Certified Teacher, Professor
+    - Teacher, Instructor (ELT, Conversational English)
+    - Other Education / Teaching, Training
+  Localization, Translation, Interpreting:
+    - Translation / Localization
+    - Interpretation
+    - Proof Reading
+    - Other Localization, Translation, Interpreting
+  Supply Chain, Logistics, Transport:
+    - Administration, Operations, Logistics
+    - Purchasing
+    - Relocation Services
+    - Transport, Warehouse
+    - Other Logistics, Transport, Supply Chain
+  Service Related:
+    - Merchandiser, Buyer
+    - Supervisor, Store Manager, Store Development
+    - Other Service Related
+  Hospitality, Hotel, Restaurant, Tourism:
+    - Waiter / Waitress, Bartender, Hall Staff
+    - Chef, Cook, Kitchen Staff
+    - Concierge, Restaurant Manager, Sommelier
+    - Entertainer
+    - Event Planning/Management (MICE Industry), Wedding Coordinator
+    - Hotel / Resort Management
+    - Tour Operator, Tour Guide
+    - Travel Agent
+    - Other Hospitality, Hotel, Restaurant, Tourism
+  Scientific, Medical, Health:
+    - R&amp;D / Clinical R&amp;D
+    - Public Welfare, Nursing, Care Giver
+    - Medical Doctor, Dentist, Pharmacist
+    - Fitness, Health Related
+    - Other Scientific, Medical, Health
+  Specialist (Consultant, Finance, Insurance, Real Estate):
+    - Consultant
+    - Financial
+    - Insurance
+    - Researcher
+    - Land Acquisition, Real Estate Developer, Property Management
+    - Real Estate Agent, Property Managment
+    - Other Specialist (Consultant Finance, Insurance, Real Estate)
+  Domestic Help:
+    - Baby Sitter, Housekeeper
+    - Other Domestic Help
+  None:
+    - Other
